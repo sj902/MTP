@@ -1,0 +1,3 @@
+/Users/shubhamjain/CLionProjects/ajd_list/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/Users/shubhamjain/CLionProjects/ajd_list/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/shubhamjain/CLionProjects/ajd_list/cmake-build-debug/CMakeFiles/ajd_list.dir

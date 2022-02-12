@@ -1,0 +1,30 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/shubhamjain/CLionProjects/ajd_list/main.c
+stdio.h
+-
+stdlib.h
+-
+ctype.h
+-
+vector.h
+/Users/shubhamjain/CLionProjects/ajd_list/vector.h
+
+/Users/shubhamjain/CLionProjects/ajd_list/vector.c
+stdio.h
+-
+stdlib.h
+-
+time.h
+-
+vector.h
+/Users/shubhamjain/CLionProjects/ajd_list/vector.h
+
+/Users/shubhamjain/CLionProjects/ajd_list/vector.h
+

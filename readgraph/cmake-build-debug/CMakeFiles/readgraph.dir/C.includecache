@@ -1,0 +1,30 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/shubhamjain/CLionProjects/readgraph/main.c
+stdio.h
+-
+stdlib.h
+-
+string.h
+-
+vector.h
+/Users/shubhamjain/CLionProjects/readgraph/vector.h
+
+/Users/shubhamjain/CLionProjects/readgraph/vector.c
+stdio.h
+-
+stdlib.h
+-
+time.h
+-
+vector.h
+/Users/shubhamjain/CLionProjects/readgraph/vector.h
+
+/Users/shubhamjain/CLionProjects/readgraph/vector.h
+

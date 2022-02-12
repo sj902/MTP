@@ -1,0 +1,777 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CMakeRunConfigurationManager" shouldGenerate="true" shouldDeleteObsolete="true" buildAllGenerated="true">
+    <generated>
+      <config projectName="GCE" targetName="GCE" />
+    </generated>
+  </component>
+  <component name="CMakeSettings" AUTO_RELOAD="true">
+    <configurations>
+      <configuration PROFILE_NAME="Debug" CONFIG_NAME="Debug" />
+    </configurations>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="224b17f5-1580-44d5-afe7-05902c429623" name="Default" comment="" />
+    <ignored path="$PROJECT_DIR$/cmake-build-debug/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="CMakeBuildProfile:Debug" />
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file leaf-file-name="main.c" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/main.c">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="331">
+              <caret line="44" column="8" selection-start-line="44" selection-start-column="8" selection-end-line="44" selection-end-column="8" />
+              <folding>
+                <element signature="e#0#18#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="sampleMultipleFromTree.c" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/sampleMultipleFromTree.c">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="141">
+              <caret line="10" selection-start-line="10" selection-end-line="10" />
+              <folding>
+                <element signature="e#454#549#1" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="bloom.c" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/bloom.c">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1980">
+              <caret line="132" selection-start-line="132" selection-end-line="132" />
+              <folding>
+                <element signature="e#395#890#0" />
+                <element signature="e#892#1378#0" />
+                <element signature="e#1380#1600#0" />
+                <element signature="e#1602#1740#0" />
+                <element signature="e#1742#1921#0" />
+                <element signature="e#1923#2073#0" />
+                <element signature="e#2075#2200#0" />
+                <element signature="e#2202#2606#0" />
+                <element signature="e#2875#3071#0" />
+                <element signature="e#3073#3269#0" />
+                <element signature="e#3271#3471#0" />
+                <element signature="e#3473#3881#0" />
+                <element signature="e#3883#4232#0" />
+                <element signature="e#4234#4377#0" />
+                <element signature="e#4379#4741#0" />
+                <element signature="e#4743#4953#0" />
+                <element signature="e#4955#5106#0" />
+                <element signature="e#5108#5352#0" />
+                <element signature="e#5355#5671#0" />
+                <element signature="e#5674#5895#0" />
+                <element signature="e#5897#6069#0" />
+                <element signature="e#6071#7244#0" />
+                <element signature="e#7248#7678#0" />
+                <element signature="e#7682#7777#0" />
+                <element signature="e#7779#7860#0" />
+                <element signature="e#7862#7943#0" />
+                <element signature="e#7945#8026#0" />
+                <element signature="e#8028#8451#0" />
+                <element signature="e#8453#8716#0" />
+                <element signature="e#8718#9154#0" />
+                <element signature="e#9156#9793#0" />
+                <element signature="e#9795#11150#0" />
+                <element signature="e#11152#12620#0" />
+                <element signature="e#12622#12767#0" />
+                <element signature="e#12769#13997#0" />
+                <element signature="e#13999#14729#0" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="doubly_linked_list.h" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/doubly_linked_list.h">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1170">
+              <caret line="78" column="5" selection-start-line="71" selection-start-column="4" selection-end-line="78" selection-end-column="5" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="bloomTree.c" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/bloomTree.c">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1905">
+              <caret line="127" column="19" selection-start-line="127" selection-start-column="19" selection-end-line="127" selection-end-column="19" />
+              <folding>
+                <element signature="e#278#296#0" expanded="true" />
+                <element signature="e#941#2268#0" />
+                <element signature="e#2273#2591#0" />
+                <element signature="e#2815#3283#0" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>1160</find>
+      <find>11608</find>
+      <find>11523</find>
+      <find>143</find>
+      <find>105</find>
+      <find>6734</find>
+      <find>7353</find>
+      <find>7369</find>
+      <find>6503</find>
+      <find>5181</find>
+      <find>5185</find>
+      <find>6733</find>
+      <find>5744</find>
+    </findStrings>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/doubly_linked_list.c" />
+        <option value="$PROJECT_DIR$/md5.c" />
+        <option value="$PROJECT_DIR$/murmur.c" />
+        <option value="$PROJECT_DIR$/bloom.h" />
+        <option value="$PROJECT_DIR$/bloom.c" />
+        <option value="$PROJECT_DIR$/bestLevel.c" />
+        <option value="$PROJECT_DIR$/CMakeLists.txt" />
+        <option value="$PROJECT_DIR$/doubly_linked_list.h" />
+        <option value="$PROJECT_DIR$/adjacency.h" />
+        <option value="$PROJECT_DIR$/bloomTree.c" />
+        <option value="$PROJECT_DIR$/sampleMultipleFromTree.c" />
+        <option value="$PROJECT_DIR$/main.c" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="ProjectFrameBounds" fullScreen="true">
+    <option name="width" value="1280" />
+    <option name="height" value="800" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="GCE" type="b2602c69:ProjectViewProjectNode" />
+              <item name="GCE" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="settings.editor.selected.configurable" value="configurable.group.build" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Application.GCE">
+    <configuration name="Build All" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="GCE" RUN_TARGET_NAME="GCE" EXPLICIT_BUILD_TARGET_NAME="all" />
+    <configuration name="GCE" type="CMakeRunConfiguration" factoryName="Application" PROGRAM_PARAMS="$USER_HOME$/Desktop/test.txt 272" PASS_PARENT_ENVS_2="true" PROJECT_NAME="GCE" TARGET_NAME="GCE" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="GCE" RUN_TARGET_NAME="GCE" />
+    <list>
+      <item itemvalue="Application.Build All" />
+      <item itemvalue="Application.GCE" />
+    </list>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="224b17f5-1580-44d5-afe7-05902c429623" name="Default" comment="" />
+      <created>1523356028937</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1523356028937</updated>
+      <workItem from="1523356031497" duration="8540000" />
+      <workItem from="1523373734129" duration="11000" />
+      <workItem from="1523373764170" duration="2895000" />
+      <workItem from="1523547787626" duration="1248000" />
+      <workItem from="1523549107789" duration="3261000" />
+      <workItem from="1523615123023" duration="726000" />
+      <workItem from="1523683640711" duration="1503000" />
+      <workItem from="1523891679983" duration="1858000" />
+      <workItem from="1524045360508" duration="314000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="20356000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="0" y="0" width="1280" height="800" extended-state="0" />
+    <editor active="true" />
+    <layout>
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.25" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info active="true" anchor="bottom" id="Messages" order="7" visible="true" weight="0.328877" />
+      <window_info anchor="bottom" id="CMake" order="11" />
+      <window_info anchor="bottom" id="Event Log" order="9" side_tool="true" />
+      <window_info anchor="bottom" id="Version Control" order="10" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.328877" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info anchor="bottom" id="Terminal" order="8" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.39973262" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="right" id="Commander" order="0" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Find" order="1" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="com.jetbrains.cidr.execution.debugger.OCBreakpointType">
+          <url>file://$PROJECT_DIR$/main.c</url>
+          <line>46</line>
+          <option name="timeStamp" value="25" />
+        </line-breakpoint>
+      </breakpoints>
+      <breakpoints-dialog>
+        <breakpoints-dialog />
+      </breakpoints-dialog>
+      <option name="time" value="26" />
+    </breakpoint-manager>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/main.c">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="645">
+          <caret line="43" column="18" selection-start-line="43" selection-start-column="18" selection-end-line="43" selection-end-column="18" />
+          <folding>
+            <element signature="e#0#18#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/bloom.c">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1980">
+          <caret line="132" selection-start-line="132" selection-end-line="132" />
+          <folding>
+            <element signature="e#395#890#0" />
+            <element signature="e#892#1378#0" />
+            <element signature="e#1380#1600#0" />
+            <element signature="e#1602#1740#0" />
+            <element signature="e#1742#1921#0" />
+            <element signature="e#1923#2073#0" />
+            <element signature="e#2075#2200#0" />
+            <element signature="e#2202#2606#0" />
+            <element signature="e#2875#3071#0" />
+            <element signature="e#3073#3269#0" />
+            <element signature="e#3271#3471#0" />
+            <element signature="e#3473#3881#0" />
+            <element signature="e#3883#4232#0" />
+            <element signature="e#4234#4377#0" />
+            <element signature="e#4379#4741#0" />
+            <element signature="e#4743#4953#0" />
+            <element signature="e#4955#5106#0" />
+            <element signature="e#5108#5352#0" />
+            <element signature="e#5355#5671#0" />
+            <element signature="e#5674#5895#0" />
+            <element signature="e#5897#6069#0" />
+            <element signature="e#6071#7244#0" />
+            <element signature="e#7248#7678#0" />
+            <element signature="e#7682#7777#0" />
+            <element signature="e#7779#7860#0" />
+            <element signature="e#7862#7943#0" />
+            <element signature="e#7945#8026#0" />
+            <element signature="e#8028#8451#0" />
+            <element signature="e#8453#8716#0" />
+            <element signature="e#8718#9154#0" />
+            <element signature="e#9156#9793#0" />
+            <element signature="e#9795#11150#0" />
+            <element signature="e#11152#12620#0" />
+            <element signature="e#12622#12767#0" />
+            <element signature="e#12769#13997#0" />
+            <element signature="e#13999#14729#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/doubly_linked_list.h">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1170">
+          <caret line="78" column="5" selection-start-line="71" selection-start-column="4" selection-end-line="78" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/bloomTree.c">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1905">
+          <caret line="127" column="19" selection-start-line="127" selection-start-column="19" selection-end-line="127" selection-end-column="19" />
+          <folding>
+            <element signature="e#278#296#0" expanded="true" />
+            <element signature="e#941#2268#0" />
+            <element signature="e#2273#2591#0" />
+            <element signature="e#2815#3283#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/sampleMultipleFromTree.c">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="2" selection-start-column="2" selection-end-column="2" />
+          <folding>
+            <element signature="e#454#549#1" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/main.c">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="645">
+          <caret line="43" column="18" selection-start-line="43" selection-start-column="18" selection-end-line="43" selection-end-column="18" />
+          <folding>
+            <element signature="e#0#18#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/bloom.c">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1980">
+          <caret line="132" lean-forward="true" selection-start-line="132" selection-end-line="132" />
+          <folding>
+            <element signature="e#395#890#0" />
+            <element signature="e#892#1378#0" />
+            <element signature="e#1380#1600#0" />
+            <element signature="e#1602#1740#0" />
+            <element signature="e#1742#1921#0" />
+            <element signature="e#1923#2073#0" />
+            <element signature="e#2075#2200#0" />
+            <element signature="e#2202#2606#0" />
+            <element signature="e#2875#3071#0" />
+            <element signature="e#3073#3269#0" />
+            <element signature="e#3271#3471#0" />
+            <element signature="e#3473#3881#0" />
+            <element signature="e#3883#4232#0" />
+            <element signature="e#4234#4377#0" />
+            <element signature="e#4379#4741#0" />
+            <element signature="e#4743#4953#0" />
+            <element signature="e#4955#5106#0" />
+            <element signature="e#5108#5352#0" />
+            <element signature="e#5355#5671#0" />
+            <element signature="e#5674#5895#0" />
+            <element signature="e#5897#6069#0" />
+            <element signature="e#6071#7244#0" />
+            <element signature="e#7248#7678#0" />
+            <element signature="e#7682#7777#0" />
+            <element signature="e#7779#7860#0" />
+            <element signature="e#7862#7943#0" />
+            <element signature="e#7945#8026#0" />
+            <element signature="e#8028#8451#0" />
+            <element signature="e#8453#8716#0" />
+            <element signature="e#8718#9154#0" />
+            <element signature="e#9156#9793#0" />
+            <element signature="e#9795#11150#0" />
+            <element signature="e#11152#12620#0" />
+            <element signature="e#12622#12767#0" />
+            <element signature="e#12769#13997#0" />
+            <element signature="e#13999#14729#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/doubly_linked_list.h">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1170">
+          <caret line="78" column="5" lean-forward="true" selection-start-line="71" selection-start-column="4" selection-end-line="78" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/bloomTree.c">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1905">
+          <caret line="127" column="19" selection-start-line="127" selection-start-column="19" selection-end-line="127" selection-end-column="19" />
+          <folding>
+            <element signature="e#278#296#0" expanded="true" />
+            <element signature="e#941#2268#0" />
+            <element signature="e#2273#2591#0" />
+            <element signature="e#2815#3283#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/main.c">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="570">
+          <caret line="38" selection-start-line="38" selection-end-line="38" />
+          <folding>
+            <element signature="e#0#18#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/bloomTree.c">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2850">
+          <caret line="190" column="24" selection-start-line="190" selection-start-column="20" selection-end-line="190" selection-end-column="37" />
+          <folding>
+            <element signature="e#278#296#0" expanded="true" />
+            <element signature="e#941#2268#0" />
+            <element signature="e#2273#2591#0" />
+            <element signature="e#2815#3283#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/bloom.c">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="3645">
+          <caret line="243" column="7" selection-start-line="243" selection-start-column="7" selection-end-line="243" selection-end-column="7" />
+          <folding>
+            <element signature="e#395#890#0" />
+            <element signature="e#892#1378#0" />
+            <element signature="e#1380#1600#0" />
+            <element signature="e#1602#1740#0" />
+            <element signature="e#1742#1921#0" />
+            <element signature="e#1923#2073#0" />
+            <element signature="e#2075#2200#0" />
+            <element signature="e#2202#2606#0" />
+            <element signature="e#2875#3071#0" />
+            <element signature="e#3073#3269#0" />
+            <element signature="e#3271#3471#0" />
+            <element signature="e#3473#3881#0" />
+            <element signature="e#3883#4232#0" />
+            <element signature="e#4234#4377#0" />
+            <element signature="e#4379#4741#0" />
+            <element signature="e#4743#4953#0" />
+            <element signature="e#4955#5106#0" />
+            <element signature="e#5108#5352#0" />
+            <element signature="e#5355#5671#0" />
+            <element signature="e#5674#5895#0" />
+            <element signature="e#5897#6069#0" />
+            <element signature="e#6071#7244#0" />
+            <element signature="e#7248#7678#0" />
+            <element signature="e#7682#7777#0" />
+            <element signature="e#7779#7860#0" />
+            <element signature="e#7862#7943#0" />
+            <element signature="e#7945#8026#0" />
+            <element signature="e#8028#8451#0" />
+            <element signature="e#8453#8716#0" />
+            <element signature="e#8718#9154#0" />
+            <element signature="e#9156#9793#0" />
+            <element signature="e#9795#11150#0" />
+            <element signature="e#11152#12620#0" />
+            <element signature="e#12622#12767#0" />
+            <element signature="e#12769#13997#0" />
+            <element signature="e#13999#14729#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/main.c">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="570">
+          <caret line="38" lean-forward="true" selection-start-line="38" selection-end-line="38" />
+          <folding>
+            <element signature="e#0#18#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/bloom.c">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="8640">
+          <caret line="576" column="5" selection-start-line="576" selection-start-column="5" selection-end-line="576" selection-end-column="5" />
+          <folding>
+            <element signature="e#395#890#0" />
+            <element signature="e#892#1378#0" />
+            <element signature="e#1380#1600#0" />
+            <element signature="e#1602#1740#0" />
+            <element signature="e#1742#1921#0" />
+            <element signature="e#1923#2073#0" />
+            <element signature="e#2075#2200#0" />
+            <element signature="e#2202#2606#0" />
+            <element signature="e#2875#3071#0" />
+            <element signature="e#3073#3269#0" />
+            <element signature="e#3271#3471#0" />
+            <element signature="e#3473#3881#0" />
+            <element signature="e#3883#4232#0" />
+            <element signature="e#4234#4377#0" />
+            <element signature="e#4379#4741#0" />
+            <element signature="e#4743#4953#0" />
+            <element signature="e#4955#5106#0" />
+            <element signature="e#5108#5352#0" />
+            <element signature="e#5355#5671#0" />
+            <element signature="e#5674#5895#0" />
+            <element signature="e#5897#6069#0" />
+            <element signature="e#6071#7244#0" />
+            <element signature="e#7248#7678#0" />
+            <element signature="e#7682#7777#0" />
+            <element signature="e#7779#7860#0" />
+            <element signature="e#7862#7943#0" />
+            <element signature="e#7945#8026#0" />
+            <element signature="e#8028#8451#0" />
+            <element signature="e#8453#8716#0" />
+            <element signature="e#8718#9154#0" />
+            <element signature="e#9156#9793#0" />
+            <element signature="e#9795#11150#0" />
+            <element signature="e#11152#12620#0" />
+            <element signature="e#12622#12767#0" />
+            <element signature="e#12769#13997#0" />
+            <element signature="e#13999#14729#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/bloomTree.c">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1995">
+          <caret line="133" lean-forward="true" selection-start-line="133" selection-end-line="133" />
+          <folding>
+            <element signature="e#278#296#0" expanded="true" />
+            <element signature="e#941#2268#0" />
+            <element signature="e#2273#2591#0" />
+            <element signature="e#2815#3283#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/main.c">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="4" selection-start-line="4" selection-end-line="4" />
+          <folding>
+            <element signature="e#0#18#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/sampleMultipleFromTree.c">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="5280">
+          <caret line="352" lean-forward="true" selection-start-line="352" selection-end-line="352" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/main.c">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="675">
+          <caret line="45" lean-forward="true" selection-start-line="45" selection-end-line="45" />
+          <folding>
+            <element signature="e#0#18#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/doubly_linked_list.h">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="735">
+          <caret line="49" column="48" selection-start-line="49" selection-start-column="48" selection-end-line="49" selection-end-column="48" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/main.c">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="960">
+          <caret line="64" lean-forward="true" selection-start-line="64" selection-end-line="64" />
+          <folding>
+            <element signature="e#0#18#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/doubly_linked_list.h">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="240">
+          <caret line="16" selection-start-line="16" selection-end-line="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/main.c">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1035">
+          <caret line="69" column="1" lean-forward="true" selection-start-line="69" selection-start-column="1" selection-end-line="69" selection-end-column="1" />
+          <folding>
+            <element signature="e#0#18#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/doubly_linked_list.h">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="240">
+          <caret line="16" lean-forward="true" selection-start-line="16" selection-end-line="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/doubly_linked_list.c" />
+    <entry file="file://$PROJECT_DIR$/md5.c">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2835">
+          <caret line="191" column="19" lean-forward="true" selection-start-line="191" selection-start-column="19" selection-end-line="191" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/murmur.c">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="422">
+          <caret line="59" lean-forward="true" selection-start-line="59" selection-end-line="59" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/bestLevel.c">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="135">
+          <caret line="13" column="11" lean-forward="true" selection-start-line="13" selection-start-column="11" selection-end-line="13" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/adjacency.h">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="280">
+          <caret line="21" column="4" selection-start-line="20" selection-start-column="4" selection-end-line="21" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/CMakeLists.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="75">
+          <caret line="5" column="75" lean-forward="true" selection-start-line="5" selection-start-column="75" selection-end-line="5" selection-end-column="75" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/bloom.h">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="570">
+          <caret line="43" column="4" selection-start-line="43" selection-end-line="44" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/bloomTree.c">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1905">
+          <caret line="127" column="19" selection-start-line="127" selection-start-column="19" selection-end-line="127" selection-end-column="19" />
+          <folding>
+            <element signature="e#278#296#0" expanded="true" />
+            <element signature="e#941#2268#0" />
+            <element signature="e#2273#2591#0" />
+            <element signature="e#2815#3283#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/bloom.c">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1980">
+          <caret line="132" selection-start-line="132" selection-end-line="132" />
+          <folding>
+            <element signature="e#395#890#0" />
+            <element signature="e#892#1378#0" />
+            <element signature="e#1380#1600#0" />
+            <element signature="e#1602#1740#0" />
+            <element signature="e#1742#1921#0" />
+            <element signature="e#1923#2073#0" />
+            <element signature="e#2075#2200#0" />
+            <element signature="e#2202#2606#0" />
+            <element signature="e#2875#3071#0" />
+            <element signature="e#3073#3269#0" />
+            <element signature="e#3271#3471#0" />
+            <element signature="e#3473#3881#0" />
+            <element signature="e#3883#4232#0" />
+            <element signature="e#4234#4377#0" />
+            <element signature="e#4379#4741#0" />
+            <element signature="e#4743#4953#0" />
+            <element signature="e#4955#5106#0" />
+            <element signature="e#5108#5352#0" />
+            <element signature="e#5355#5671#0" />
+            <element signature="e#5674#5895#0" />
+            <element signature="e#5897#6069#0" />
+            <element signature="e#6071#7244#0" />
+            <element signature="e#7248#7678#0" />
+            <element signature="e#7682#7777#0" />
+            <element signature="e#7779#7860#0" />
+            <element signature="e#7862#7943#0" />
+            <element signature="e#7945#8026#0" />
+            <element signature="e#8028#8451#0" />
+            <element signature="e#8453#8716#0" />
+            <element signature="e#8718#9154#0" />
+            <element signature="e#9156#9793#0" />
+            <element signature="e#9795#11150#0" />
+            <element signature="e#11152#12620#0" />
+            <element signature="e#12622#12767#0" />
+            <element signature="e#12769#13997#0" />
+            <element signature="e#13999#14729#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/doubly_linked_list.h">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1170">
+          <caret line="78" column="5" selection-start-line="71" selection-start-column="4" selection-end-line="78" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/main.c">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="331">
+          <caret line="44" column="8" selection-start-line="44" selection-start-column="8" selection-end-line="44" selection-end-column="8" />
+          <folding>
+            <element signature="e#0#18#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/sampleMultipleFromTree.c">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="141">
+          <caret line="10" selection-start-line="10" selection-end-line="10" />
+          <folding>
+            <element signature="e#454#549#1" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>

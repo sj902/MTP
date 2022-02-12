@@ -1,0 +1,66 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/shubhamjain/CLionProjects/Source 2/bestLevel.c
+stdio.h
+-
+bloom.h
+/Users/shubhamjain/CLionProjects/Source 2/bloom.h
+stdlib.h
+-
+time.h
+-
+math.h
+-
+
+/Users/shubhamjain/CLionProjects/Source 2/bloom.c
+stdio.h
+-
+bloom.h
+/Users/shubhamjain/CLionProjects/Source 2/bloom.h
+math.h
+-
+stdlib.h
+-
+time.h
+-
+md5.c
+/Users/shubhamjain/CLionProjects/Source 2/md5.c
+
+/Users/shubhamjain/CLionProjects/Source 2/bloom.h
+
+/Users/shubhamjain/CLionProjects/Source 2/bloomTree.c
+stdio.h
+-
+stdlib.h
+-
+bloom.h
+/Users/shubhamjain/CLionProjects/Source 2/bloom.h
+
+/Users/shubhamjain/CLionProjects/Source 2/md5.c
+stdlib.h
+-
+memory.h
+-
+stddef.h
+-
+
+/Users/shubhamjain/CLionProjects/Source 2/sampleMultipleFromTree.c
+stdio.h
+-
+pthread.h
+-
+bloom.h
+/Users/shubhamjain/CLionProjects/Source 2/bloom.h
+stdlib.h
+-
+bloomTree.c
+/Users/shubhamjain/CLionProjects/Source 2/bloomTree.c
+bestLevel.c
+/Users/shubhamjain/CLionProjects/Source 2/bestLevel.c
+
